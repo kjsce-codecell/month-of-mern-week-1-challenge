@@ -10,4 +10,4 @@ Functionalities to add:
 5. The option picked by the computer would be auto-generated using random function and for user, there would be an option to pick.
 6. User can play multiple rounds, the winner of the previous round will be displayed on the screen
 7. The general mock up of the UI screen is attached below:
-<img src = "mockUI.jpeg">
+<img src = "assets/mockUI.jpg">
