@@ -1,14 +1,52 @@
-# Month of MERN Week-1 Challenge
+# Month of MERN Week 1 Task and Challenge
+
+## Task
+
+#### Build a page to view products
+
+Details [`Available Here`](./task/)
+
+```
+To be completed before Sunday 13th February, 2022
+```
+
 ---
-#### Challenge - Fire, Water, Tree
+
+## Challenge
+
+#### Build a game - Fire, Water, Tree
+
+Details [`Available Here`](./challenge/)
+
+```
+To be completed before Saturday 19th February, 2022
+```
+
 ---
-Functionalities to add: 
-1. There are 3 items with which you play the game. Fire, water, tree.
-2. If fire is put against tree, fire gets a point as fire burns the tree down.
-3. If water is put against fire, water gets a point as water extinguishes fire.
-4. If tree is put against water, tree gets a point as tree absorbs water.
-5. The option picked by the computer would be auto-generated using random function and for user, there would be an option to pick.
-6. There will be 3 rounds for the winner to be decided.
-7. User can play multiple rounds, the winner of the previous round will be displayed on the screen
-8. The general mock up of the UI screen is attached below:
-<img src = "assets/mockUI.jpeg">
+
+## Resources
+
+### Workshop Recordings
+
+- [`Day 1`](https://www.youtube.com/watch?v=a-peu0BEkoc)
+- [`Day 2`](https://www.youtube.com/watch?v=NXvtQ5QzjOo)
+
+### Source Code and Notes
+
+- [`TODO App using Vanilla JS`](https://github.com/kjsce-codecell/month-of-mern-week1-resources/tree/main/todoJS)
+- [`React JS Basics`](https://github.com/kjsce-codecell/month-of-mern-week1-resources/tree/main/react-basics)
+- [`TODO App using React JS`](https://github.com/kjsce-codecell/month-of-mern-week1-resources/tree/main/todo-react)
+
+### Further Help
+
+- Connect with us and our community on [`discord`](https://discord.com/invite/UBbSuw7swW).
+
+---
+
+## How To Submit?
+
+1. Use this repository as a template and push the code to your repository.
+
+   - For reference use [these videos](https://drive.google.com/drive/folders/11pai7ipG_6irotvyg_FlqCGDwxVmTu4R?usp=sharing).
+
+2. Fill [this form](https://www.kjscecodecell.com/month-of-mern/assignment/week1).
