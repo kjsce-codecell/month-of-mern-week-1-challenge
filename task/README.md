@@ -1,4 +1,4 @@
-# An e-commerce page to view products
+# E-commerce page to view products
 
 1. Given an `array` of objects similar to:
 
