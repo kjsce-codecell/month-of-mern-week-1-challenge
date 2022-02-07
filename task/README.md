@@ -28,3 +28,7 @@
 3. Each product should have an option to `Add` or `Remove` it from the cart.
 
 4. Somewhere on the page the total `number` of products in the `cart` should be displayed.
+
+5. The general mock up of the UI screen is attached below:
+
+<img src = "assets/mockUI.jpeg">
